@@ -1,6 +1,6 @@
 # common description
 When player start the gaame he will see:
-* (Intro scene.)[./intro.md] Introduce charecter and his legend.
+* [Intro scene.](./intro.md) Introduce charecter and his legend.
 
 * Main menu 
   * Play. Start the game
