@@ -4,7 +4,7 @@ When player start the gaame he will see:
 
 * Main menu 
   * Play. Start the game
-    * Shows [world map](./GlobalMap.md) that need to be occupate.
+    * Shows [world map](./global-map.md) that need to be occupate.
     * Choose territory to invade and minion to send there.
       * Action part. Shows generated vilage. Target - Kill all the people and survive.
   * Options.
