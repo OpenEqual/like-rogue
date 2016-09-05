@@ -1,7 +1,7 @@
 Local map
 * Shows on the [global map](./global-map.md) as territory with dotted border. 
 * By click it will shows [choose minion screen](./choose-minion.md)
-* By click "IVADE" will generate local map
+* By click "IVADE" will generate local map from the [tiles](../assets/Roguelike%20pack.zip)
 
 Type of Local Map:
 * Vilage
