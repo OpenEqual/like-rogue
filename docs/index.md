@@ -1,5 +1,6 @@
 # common description
-When player start the gaame he will see:
+When player start the game he will see:
+* [Logo scene](./logo.md)
 * [Intro scene.](./intro.md) Introduce charecter and his legend.
 
 * Main menu 
